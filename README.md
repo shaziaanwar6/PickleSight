@@ -7,6 +7,7 @@ PickleSight analyzes player movements in pickleball videos using computer vision
 ## Features
 
 - Human pose estimation using YOLOv8n-Pose
+- Project Preview
 - Player tracking using ByteTrack
 - Joint angle calculation
 - Body-distance measurements
@@ -39,6 +40,7 @@ PickleSight analyzes player movements in pickleball videos using computer vision
 
 - `PickleSight_clean.ipynb` — Main project notebook.
 - `README.md` — Project documentation.
+- picklesight_preview.png
 
 ## Limitations
 
